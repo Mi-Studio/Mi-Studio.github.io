@@ -675,7 +675,7 @@ input[type="checkbox"]:checked + label:before {
   top: 0;
   width: 100%;
   background-color: #ffffff;
-  z-index: 99;
+  z-index: 101;
 }
 
 .navbar-wrap {
